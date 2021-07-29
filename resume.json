@@ -1,0 +1,64 @@
+{
+    "basics": {
+        "name": "Yash Bansal",
+        "label": "Student",
+        "picture": "https://github.com/yash2065/resume/issues/1#issue-955840430",
+        "email": "2020kuec2065@iiitkota.ac.in",
+        "phone": "+916264263761",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication engineering.",
+        "location": {
+            "address": "Shivpuri",
+            "postalCode": "473551",
+            "city": "Shivpuri",
+            "countryCode": "India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "yash2065",
+                "url": "https://github.com/yash2065"
+            },
+            {
+                "network": "linkedin",
+                "username": "YASH BANSAL",
+                "url": "https://www.linkedin.com/in/yash-bansal-a26580218/"
+            },
+            {
+                "network": "Instagram",
+                "username": "yash_bansal542",
+                "url": "https://www.instagram.com/yash_bansal542/ "
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "courses": [
+                "Electronics and communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Basketball",
+                "Volleyball",
+                "Badminton"
+            ]
+        }
+    ],
+    "references": []
+}
